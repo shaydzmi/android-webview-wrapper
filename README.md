@@ -195,6 +195,17 @@ Yes. WebView is officially supported by Google and widely used for hybrid apps.
 
 ---
 
+## 📚 Guides & Deep Dives
+
+Full write-ups on [sumandey.com](https://www.sumandey.com/blogs) covering the reasoning behind this project, its architecture, and how to use it:
+
+- [Why I Open-Sourced My Android WebView App Template](https://www.sumandey.com/blogs/android-webview-wrapper-open-source-template-convert-website-to-android-app) — the origin story and full feature breakdown
+- [Android WebView Wrapper: Architecture Deep Dive](https://www.sumandey.com/blogs/building-android-webview-wrapper-architecture-deep-dive) — how the bridge, managers, and workers are structured, and why
+- [How to Convert a Website to an Android App (Free, 2026)](https://www.sumandey.com/blogs/how-to-convert-website-to-android-app-free-2026-guide) — no-code tools vs. building from scratch vs. this template
+- [Convert Website to App: Android, iOS & Play Store FAQ](https://www.sumandey.com/blogs/convert-website-to-android-ios-app-play-store-faq-guide) — publishing costs, review times, rejection reasons, and more
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome.
