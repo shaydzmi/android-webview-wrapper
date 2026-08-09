@@ -64,6 +64,13 @@
     <uses-feature
         android:name="android.hardware.fingerprint"
         android:required="false" />
+    <!-- Location Access -->
+<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+<!-- Camera Access -->
+<uses-permission android:name="android.permission.CAMERA" />
+<!-- Storage Access for File Uploads/Downloads -->
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
 
     <application
         android:name=".WebViewApplication"
